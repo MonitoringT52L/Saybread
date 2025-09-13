@@ -1,0 +1,89 @@
+{
+  "date": "2025-09-13",
+  "breads": [
+    {
+      "name": "CHOCO FLAT",
+      "morning": 1,
+      "day": 1,
+      "total": 2
+    },
+    {
+      "name": "POLO COKLAT",
+      "morning": 0,
+      "day": 0,
+      "total": 0
+    },
+    {
+      "name": "BOULE HOKAIDO",
+      "morning": 0,
+      "day": 0,
+      "total": 0
+    },
+    {
+      "name": "CHOCO FLAT",
+      "morning": 0,
+      "day": 0,
+      "total": 0
+    },
+    {
+      "name": "CREAM CHESEE",
+      "morning": 0,
+      "day": 0,
+      "total": 0
+    },
+    {
+      "name": "CHOCO TOPING",
+      "morning": 0,
+      "day": 0,
+      "total": 0
+    },
+    {
+      "name": "DOUBLE CHESE",
+      "morning": 0,
+      "day": 0,
+      "total": 0
+    },
+    {
+      "name": "SAUSAGE",
+      "morning": 0,
+      "day": 0,
+      "total": 0
+    },
+    {
+      "name": "APPLE PIE",
+      "morning": 0,
+      "day": 0,
+      "total": 0
+    },
+    {
+      "name": "CHESEBUN",
+      "morning": 0,
+      "day": 0,
+      "total": 0
+    },
+    {
+      "name": "CHOCO CROISAN",
+      "morning": 0,
+      "day": 0,
+      "total": 0
+    },
+    {
+      "name": "WALNUT",
+      "morning": 0,
+      "day": 0,
+      "total": 0
+    },
+    {
+      "name": "MINI GERMAN",
+      "morning": 0,
+      "day": 0,
+      "total": 0
+    },
+    {
+      "name": "POLO MARTABAK",
+      "morning": 0,
+      "day": 0,
+      "total": 0
+    }
+  ]
+}
